@@ -1,0 +1,19 @@
+body{
+
+    background-color:#6666ff;
+    font-family: verdana;
+    text-align: center;    
+}
+
+ul {
+    list-style-position: inside;
+}
+p{
+	text-align: left;
+}
+.copyright{
+font-size:10px;
+font-style: italic;
+
+
+}
